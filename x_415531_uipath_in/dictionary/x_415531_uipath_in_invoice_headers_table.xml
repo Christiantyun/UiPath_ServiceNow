@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Invoice Headers Table" max_length="40" name="x_415531_uipath_in_invoice_headers_table" type="collection">
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element label="Customer ID" max_length="40" name="customer_id" type="integer"/>
+        <element label="Invoice Company" max_length="40" name="invoice_company" type="string"/>
+        <element label="Invoice Number" max_length="40" name="invoice_number" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
