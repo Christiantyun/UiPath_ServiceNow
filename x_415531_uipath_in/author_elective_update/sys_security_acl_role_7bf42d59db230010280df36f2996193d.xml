@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 15:11:53</sys_created_on>
+        <sys_id>7bf42d59db230010280df36f2996193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_headers.x_415531_uipath_in.invoice_headers_user</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_security_acl display_value="x_415531_uipath_in_invoice_headers">fbf42d59db230010280df36f2996193a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bf42d59db230010280df36f2996193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 15:11:53</sys_updated_on>
+        <sys_user_role display_value="x_415531_uipath_in.invoice_headers_user" name="x_415531_uipath_in.invoice_headers_user">dbf42d59db230010280df36f29961901</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_security_acl_role_7bf42d59db230010280df36f2996193d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-13 15:11:53</sys_created_on><sys_id>7bf42d59db230010280df36f2996193d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_415531_uipath_in_invoice_headers.x_415531_uipath_in.invoice_headers_user</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_security_acl display_value="x_415531_uipath_in_invoice_headers">fbf42d59db230010280df36f2996193a</sys_security_acl><sys_update_name>sys_security_acl_role_7bf42d59db230010280df36f2996193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-13 15:11:53</sys_updated_on><sys_user_role display_value="x_415531_uipath_in.invoice_headers_user" name="x_415531_uipath_in.invoice_headers_user">dbf42d59db230010280df36f29961901</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>591270072</payload_hash>
+        <record_name>x_415531_uipath_in_invoice_headers.x_415531_uipath_in.invoice_headers_user</record_name>
+        <reverted_from/>
+        <source>089ab73cdbeb0010280df36f2996190e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 15:11:53</sys_created_on>
+        <sys_id>f7f42d59db230010280df36f2996194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170d473a4630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 15:11:53</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>33f42d59ee230010bbd3892d8c49c74c</update_guid>
+        <update_guid_history>33f42d59ee230010bbd3892d8c49c74c:591270072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_415531_uipath_in_invoice_headers.x_415531_uipath_in.invoice_headers_user">4ffdaddddb230010280df36f2996193d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 15:51:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>48b80ce7d788432ab2663c2764c69a24</sys_id>
+        <sys_metadata>7bf42d59db230010280df36f2996193d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_headers.x_415531_uipath_in.invoice_headers_user</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent display_value="">fbf42d59db230010280df36f2996193a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7bf42d59db230010280df36f2996193d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7bf42d59db230010280df36f2996193d">f7f42d59db230010280df36f2996194c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 15:51:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

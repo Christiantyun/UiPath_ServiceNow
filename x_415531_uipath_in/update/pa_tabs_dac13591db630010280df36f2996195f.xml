@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA My Homepage 3 - New Tab">dac13591db630010280df36f2996195b</canvas_page>
+        <name>My Homepage 3 - New Tab</name>
+        <page display_value="PA My Homepage 3 - New Tab">1ac13591db630010280df36f29961959</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dac13591db630010280df36f2996195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Homepage 3 - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_tabs_dac13591db630010280df36f2996195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:07:46</sys_updated_on>
+    </pa_tabs>
+</record_update>

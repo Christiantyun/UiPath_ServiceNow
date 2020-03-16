@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_415531_uipath_in_invoice_headers" label="Invoice Details" max_length="40" name="x_415531_uipath_in_invoice_details" sizeclass="0" type="collection">
+        <element label="Invoice Page" max_length="40" name="invoice_page" type="string"/>
+        <element label="Unit Price" max_length="20" name="unit_price" type="currency"/>
+        <element label="UPC" max_length="20" name="upc" type="currency"/>
+    </element>
+</database>

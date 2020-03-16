@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA UiPath Dashboard - New Tab">6a3c9dd1db230010280df36f299619ae</legacy_page>
+        <name>PA UiPath Dashboard - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 14:33:34</sys_created_on>
+        <sys_id>e23c9dd1db230010280df36f299619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA UiPath Dashboard - New Tab</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_grid_canvas_e23c9dd1db230010280df36f299619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 14:33:34</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_grid_canvas_e23c9dd1db230010280df36f299619af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA UiPath Dashboard - New Tab">6a3c9dd1db230010280df36f299619ae</legacy_page><name>PA UiPath Dashboard - New Tab</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-13 14:33:34</sys_created_on><sys_id>e23c9dd1db230010280df36f299619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA UiPath Dashboard - New Tab</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>sys_grid_canvas_e23c9dd1db230010280df36f299619af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-13 14:33:34</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-657542637</payload_hash>
+        <record_name>PA UiPath Dashboard - New Tab</record_name>
+        <reverted_from/>
+        <source>089ab73cdbeb0010280df36f2996190e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 14:33:34</sys_created_on>
+        <sys_id>2a3c9dd1db230010280df36f299619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170d450911c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 14:33:34</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>623c9dd1ed230010b2c03f0d8d0b2eb0</update_guid>
+        <update_guid_history>623c9dd1ed230010b2c03f0d8d0b2eb0:-657542637</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:08:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>49538a12de1646309cd1523be4d26900</sys_id>
+        <sys_metadata>e23c9dd1db230010280df36f299619af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA UiPath Dashboard - New Tab</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_e23c9dd1db230010280df36f299619af</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_e23c9dd1db230010280df36f299619af">2a3c9dd1db230010280df36f299619b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:08:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_415531_uipath_in_invoice_headers</description>
+        <name>x_415531_uipath_in_invoice_headers</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:10</sys_created_on>
+        <sys_id>21a1f191db630010280df36f2996190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_headers</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_security_acl_21a1f191db630010280df36f2996190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:07:10</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
