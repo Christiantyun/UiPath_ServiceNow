@@ -47,8 +47,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-13 18:04:07</sys_created_on>
-        <sys_id>3e6c06d1dba30010280df36f2996192e</sys_id>
+        <sys_created_on>2020-03-16 19:35:56</sys_created_on>
+        <sys_id>953ebd56dbe30010280df36f29961941</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sub Cases Details</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_header_data_u_sub_cases_details</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-13 18:04:07</sys_updated_on>
+        <sys_updated_on>2020-03-16 19:35:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
