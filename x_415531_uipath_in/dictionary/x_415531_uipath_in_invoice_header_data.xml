@@ -9,8 +9,16 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice Date" label="Invoice Date" max_length="40" name="u_invoice_date" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice Due Date" label="Invoice Due Date" max_length="40" name="u_invoice_due_date" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice Number" label="Invoice Number" max_length="40" name="u_invoice_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Invoice Page" max_length="40" name="u_invoice_page" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice total Amount" label="Invoice total Amount" max_length="40" name="u_invoice_total_amount" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Description" max_length="40" name="u_item_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Number" max_length="40" name="u_item_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Origin location" max_length="40" name="u_origin_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package" max_length="40" name="u_package" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Page Number" label="Page Number" max_length="40" name="u_page_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PCNT" max_length="40" name="u_pcnt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Quantity" max_length="40" name="u_quantity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Retail" max_length="40" name="u_retail" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Route" label="Route " max_length="40" name="u_route" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Shipping Method" label="Shipping Method" max_length="40" name="u_shipping_method" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Shipping Weight" label="Shipping Weight" max_length="40" name="u_shipping_weight" type="string"/>
@@ -19,6 +27,8 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Sub Cases Details" label="Sub Cases Details" max_length="40" name="u_sub_cases_details" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Cases" label="Total Cases" max_length="40" name="u_total_cases" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Trips" label="Trips" max_length="40" name="u_trips" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unit Price" max_length="40" name="u_unit_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UPC" max_length="40" name="u_upc" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Var P.O.No" label="Var P.O.No" max_length="40" name="u_var_p_o_no" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Zip Code" label="Zip Code" max_length="40" name="u_zip_code" type="string"/>
     </element>

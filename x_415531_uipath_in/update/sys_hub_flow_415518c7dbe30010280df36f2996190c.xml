@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow from creating invoice header to invoice detail</description>
+        <internal_name>invoice_creation</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Invoice Creation</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 19:53:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>415518c7dbe30010280df36f2996190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invoice Creation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_hub_flow_415518c7dbe30010280df36f2996190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 19:53:10</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=415518c7dbe30010280df36f2996190c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=415518c7dbe30010280df36f2996190c"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=415518c7dbe30010280df36f2996190c^sys_idNOT IN055518c7dbe30010280df36f2996190e"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>415518c7dbe30010280df36f2996190c</id>
+        <name>Invoice Creation</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 19:53:10</sys_created_on>
+        <sys_id>055518c7dbe30010280df36f2996190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 19:53:10</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

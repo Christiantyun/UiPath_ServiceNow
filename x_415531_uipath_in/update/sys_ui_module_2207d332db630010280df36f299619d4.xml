@@ -7,7 +7,7 @@
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_415531_uipath_in.invoice_details_user</roles>
+        <roles/>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-18 15:21:02</sys_created_on>

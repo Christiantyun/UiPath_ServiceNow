@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_415531_uipath_in_invoice_headers</from_table>
+        <m2m_from_field>invoice_headers</m2m_from_field>
+        <m2m_from_label>Invoice Details</m2m_from_label>
+        <m2m_table>x_415531_uipath_in_invoice_relationship_table</m2m_table>
+        <m2m_to_field>invoice_details</m2m_to_field>
+        <m2m_to_label>Invoice Headers</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 20:03:16</sys_created_on>
+        <sys_id>5467d04bdbe30010280df36f299619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_relationship_table</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_m2m_5467d04bdbe30010280df36f299619ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 20:03:16</sys_updated_on>
+        <to_table>x_415531_uipath_in_invoice_details</to_table>
+    </sys_m2m>
+</record_update>
