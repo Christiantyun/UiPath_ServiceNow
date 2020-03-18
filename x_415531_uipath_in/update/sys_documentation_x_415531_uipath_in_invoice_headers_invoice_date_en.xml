@@ -10,8 +10,8 @@
             <plural>Invoice Dates</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-16 19:32:10</sys_created_on>
-            <sys_id>ce5d3156dbe30010280df36f299619ca</sys_id>
+            <sys_created_on>2020-03-18 18:34:15</sys_created_on>
+            <sys_id>f043c48bdba30010280df36f29961907</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Invoice Date</sys_name>
             <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -19,7 +19,7 @@
             <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
             <sys_update_name>sys_documentation_x_415531_uipath_in_invoice_headers_invoice_date_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-16 19:32:10</sys_updated_on>
+            <sys_updated_on>2020-03-18 18:34:15</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

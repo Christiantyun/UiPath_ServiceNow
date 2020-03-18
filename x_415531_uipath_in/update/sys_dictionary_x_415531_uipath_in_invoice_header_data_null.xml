@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="x_415531_uipath_in_invoice_header_data">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_415531_uipath_in_invoice_header_data">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-16 19:35:56</sys_created_on>
-        <sys_id>453ebd56dbe30010280df36f29961925</sys_id>
+        <sys_id>c06197fadb230010280df36f299619e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
         <sys_policy/>
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
-        <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_header_data_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_header_data_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-16 19:35:56</sys_updated_on>
+        <sys_updated_on>2020-03-18 14:56:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
