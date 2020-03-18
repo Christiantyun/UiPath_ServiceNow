@@ -12,10 +12,18 @@
         <element label="Invoice Number" max_length="40" name="invoice_number" type="string"/>
         <element label="Invoice Total Amount" max_length="40" name="invoice_total_amount" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Invoice ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Page Number" max_length="40" name="page_number" type="string"/>
+        <element label="Route" max_length="40" name="route" type="string"/>
         <element label="Shipping Method" max_length="40" name="shipping_method" type="string"/>
         <element label="Shipping Weight" max_length="40" name="shipping_weight" type="string"/>
         <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Stop Number" max_length="40" name="stop_number" type="string"/>
+        <element label="Sub Cases Details" max_length="40" name="sub_cases_details" type="string"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Total Cases" max_length="40" name="total_cases" type="string"/>
+        <element label="Trips" max_length="40" name="trips" type="string"/>
+        <element label="Var P.O.NO" max_length="40" name="var_p_o_no" type="string"/>
+        <element label="Zip Code" max_length="40" name="zip_code" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

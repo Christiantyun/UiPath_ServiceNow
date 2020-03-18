@@ -2,33 +2,33 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_415531_uipath_in_invoice_headers" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>address_line_1</element>
+            <element>number</element>
             <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
-            <sys_id>b7723d91db630010280df36f299619b5</sys_id>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>2757baa6dba30010280df36f29961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>company_name</element>
+            <element>invoice_number</element>
             <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
-            <sys_id>3b723d91db630010280df36f299619b5</sys_id>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>eb57baa6dba30010280df36f29961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -39,11 +39,26 @@
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
-            <sys_id>bb723d91db630010280df36f299619b5</sys_id>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>6f57baa6dba30010280df36f29961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company_name</element>
+            <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>ef57baa6dba30010280df36f29961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -51,29 +66,59 @@
             <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>3</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
-            <sys_id>3f723d91db630010280df36f299619b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>invoice_number</element>
-            <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
-            <sys_id>bf723d91db630010280df36f299619b5</sys_id>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>6357baa6dba30010280df36f29961995</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address_line_1</element>
+            <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>e357baa6dba30010280df36f29961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address_line_2</element>
+            <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>6757baa6dba30010280df36f29961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_415531_uipath_in_invoice_headers" element="NULL" name="x_415531_uipath_in_invoice_headers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fb723d91db630010280df36f299619b4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
+            <sys_id>e757baa6dba30010280df36f29961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -87,7 +132,7 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 16:10:52</sys_created_on>
+            <sys_created_on>2020-03-17 18:24:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fb723d91db630010280df36f299619b4</sys_id>
@@ -98,7 +143,7 @@
             <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
             <sys_update_name>sys_ui_list_x_415531_uipath_in_invoice_headers_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 16:10:52</sys_updated_on>
+            <sys_updated_on>2020-03-17 18:24:11</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
