@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Invoice Details" max_length="40" name="x_415531_uipath_in_invoice_details" type="collection">
         <element label="Invoice Header ID" max_length="32" name="invoice_header_id" reference="x_415531_uipath_in_invoice_headers" type="reference"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Invoice Detail ID" max_length="40" name="number" type="string"/>
         <index name="index">
             <element name="invoice_header_id"/>
         </index>
