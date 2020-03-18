@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Invoice Header Data" max_length="40" name="x_415531_uipath_in_invoice_header_data" type="collection">
+    <element extends="sys_import_set_row" label="Invoice Header Data" max_length="40" name="x_415531_uipath_in_invoice_header_data" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Address Line1" label="Address Line1" max_length="40" name="u_address_line1" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Address Line2" label="Address Line2" max_length="40" name="u_address_line2" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
@@ -11,7 +11,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice Number" label="Invoice Number" max_length="40" name="u_invoice_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice total Amount" label="Invoice total Amount" max_length="40" name="u_invoice_total_amount" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Page Number" label="Page Number" max_length="40" name="u_page_number" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Route" label="Route" max_length="40" name="u_route" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Route" label="Route " max_length="40" name="u_route" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Shipping Method" label="Shipping Method" max_length="40" name="u_shipping_method" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Shipping Weight" label="Shipping Weight" max_length="40" name="u_shipping_weight" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>

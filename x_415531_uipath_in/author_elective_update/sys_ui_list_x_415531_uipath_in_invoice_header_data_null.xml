@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_415531_uipath_in_invoice_header_data" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>193ebd56dbe30010280df36f2996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>9d3ebd56dbe30010280df36f2996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>113ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>913ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>153ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>953ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_415531_uipath_in_invoice_header_data</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d3ebd56dbe30010280df36f2996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
+            <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+            <sys_update_name>sys_ui_list_x_415531_uipath_in_invoice_header_data_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_list_x_415531_uipath_in_invoice_header_data_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_415531_uipath_in_invoice_header_data" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>193ebd56dbe30010280df36f2996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>9d3ebd56dbe30010280df36f2996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>113ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>913ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>153ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_415531_uipath_in_invoice_header_data" element="NULL" name="x_415531_uipath_in_invoice_header_data" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1d3ebd56dbe30010280df36f2996196d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_id>953ebd56dbe30010280df36f2996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_415531_uipath_in_invoice_header_data</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-16 19:35:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d3ebd56dbe30010280df36f2996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
+            <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+            <sys_update_name>sys_ui_list_x_415531_uipath_in_invoice_header_data_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-16 19:35:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>]]></payload>
+        <payload_hash>1168661995</payload_hash>
+        <record_name>Invoice Header Data</record_name>
+        <reverted_from/>
+        <source>5d419fbadb230010280df36f29961917</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 14:56:26</sys_created_on>
+        <sys_id>16615bfadb230010280df36f299619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170ee2549c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 14:56:26</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>92615bfad823001031886d378de3ead5</update_guid>
+        <update_guid_history>92615bfad823001031886d378de3ead5:0,dccae55da22300104da5f8d0e0592445:88145355</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 19:20:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>5c5b149755bb4bc09dbbe035dc5e3240</sys_id>
+        <sys_metadata>0e1d0843dbe30010280df36f2996192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent display_value="">b11dc443dbe30010280df36f299619bb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_415531_uipath_in_invoice_header_data_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_415531_uipath_in_invoice_header_data_null">16615bfadb230010280df36f299619d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 19:20:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
