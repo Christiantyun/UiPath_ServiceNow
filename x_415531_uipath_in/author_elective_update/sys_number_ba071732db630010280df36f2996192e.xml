@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_415531_uipath_in_invoice_details">x_415531_uipath_in_invoice_details</category>
+        <maximum_digits>7</maximum_digits>
+        <number>2000</number>
+        <prefix>INVD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 15:21:03</sys_created_on>
+        <sys_id>ba071732db630010280df36f2996192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INVD</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_number_ba071732db630010280df36f2996192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 15:21:03</sys_updated_on>
+    </sys_number>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_number_ba071732db630010280df36f2996192e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_415531_uipath_in_invoice_details">x_415531_uipath_in_invoice_details</category>
+        <maximum_digits>7</maximum_digits>
+        <number>2000</number>
+        <prefix>INVD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 15:21:03</sys_created_on>
+        <sys_id>ba071732db630010280df36f2996192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INVD</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_number_ba071732db630010280df36f2996192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 15:21:03</sys_updated_on>
+    </sys_number>
+</record_update>]]></payload>
+        <payload_hash>1320731550</payload_hash>
+        <record_name>INVD</record_name>
+        <reverted_from/>
+        <source>8f66e913db234010280df36f29961970</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 20:26:54</sys_created_on>
+        <sys_id>b8a6ad53db234010280df36f299619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f47a34840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 20:26:54</sys_updated_on>
+        <type>Number</type>
+        <update_guid>38a6ad53492340104045b01f3c62fcd6</update_guid>
+        <update_guid_history>38a6ad53492340104045b01f3c62fcd6:0,8486a15342234010e4186ece340a5e8a:-319917080,07071732686300107df7b04a28477f42:-777607460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 20:37:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>1c2b44a248db4648a99b8f02a4182fc1</sys_id>
+        <sys_metadata>ba071732db630010280df36f2996192e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INVD</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent display_value="">887761d3db234010280df36f2996199f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_number_ba071732db630010280df36f2996192e</sys_update_name>
+        <sys_update_version display_value="sys_number_ba071732db630010280df36f2996192e">b8a6ad53db234010280df36f299619d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 20:37:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

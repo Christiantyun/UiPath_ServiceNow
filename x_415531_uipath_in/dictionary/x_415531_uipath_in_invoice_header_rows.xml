@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_415531_uipath_in_invoice_headers" label="Invoice Header Rows" max_length="40" name="x_415531_uipath_in_invoice_header_rows" type="collection">
+        <element display="true" label="Invoice Header ID" max_length="32" name="invoice_header_id" reference="x_415531_uipath_in_invoice_headers" type="reference"/>
+        <element label="Invoice Page" max_length="40" name="invoice_page" type="string"/>
+        <element label="Item Description" max_length="40" name="item_description" type="string"/>
+        <element label="Item Number" max_length="40" name="item_number" type="string"/>
+        <element label="Origin Location" max_length="40" name="origin_location" type="string"/>
+        <element label="Package" max_length="40" name="package" type="string"/>
+        <element label="PCNT" max_length="40" name="pcnt" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="string"/>
+        <element label="Retail" max_length="40" name="retail" type="string"/>
+        <element label="Unit Price" max_length="40" name="unit_price" type="string"/>
+        <element label="UPC" max_length="40" name="upc" type="string"/>
+        <index name="index">
+            <element name="invoice_header_id"/>
+        </index>
+    </element>
+</database>

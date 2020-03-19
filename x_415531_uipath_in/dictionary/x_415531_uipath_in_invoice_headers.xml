@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Invoice Headers" max_length="40" name="x_415531_uipath_in_invoice_headers" sizeclass="9" type="collection">
-        <element label="Address Line 1" max_length="40" name="address_line_1" type="string"/>
-        <element label="Address Line 2" max_length="40" name="address_line_2" type="string"/>
+    <element label="Invoice Headers" max_length="40" name="x_415531_uipath_in_invoice_headers" type="collection">
+        <element label="Address Line1" max_length="40" name="address_line1" type="string"/>
+        <element label="Address Line2" max_length="40" name="address_line2" type="string"/>
         <element label="City" max_length="40" name="city" type="string"/>
         <element label="Company Invoice ID" max_length="40" name="company_invoice_id" type="string"/>
         <element label="Company Name" max_length="40" name="company_name" type="string"/>
-        <element display="true" label="Customer ID" max_length="40" name="customer_id" type="string"/>
+        <element label="Customer ID" max_length="40" name="customer_id" type="string"/>
         <element label="Invoice Company" max_length="40" name="invoice_company" type="string"/>
         <element label="Invoice Date" max_length="40" name="invoice_date" type="string"/>
         <element label="Invoice Due Date" max_length="40" name="invoice_due_date" type="string"/>
-        <element label="Invoice Number" max_length="40" name="invoice_number" type="string"/>
-        <element label="Invoice Total Amount" max_length="40" name="invoice_total_amount" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Invoice ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Invoice total Amount" max_length="40" name="invoice_total_amount" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Invoice Rows ID" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Page Number" max_length="40" name="page_number" type="string"/>
         <element label="Route" max_length="40" name="route" type="string"/>
         <element label="Shipping Method" max_length="40" name="shipping_method" type="string"/>
@@ -19,13 +18,9 @@
         <element label="State" max_length="40" name="state" type="string"/>
         <element label="Stop Number" max_length="40" name="stop_number" type="string"/>
         <element label="Sub Cases Details" max_length="40" name="sub_cases_details" type="string"/>
-        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Total Cases" max_length="40" name="total_cases" type="string"/>
         <element label="Trips" max_length="40" name="trips" type="string"/>
         <element label="Var P.O.NO" max_length="40" name="var_p_o_no" type="string"/>
         <element label="Zip Code" max_length="40" name="zip_code" type="string"/>
-        <index name="index">
-            <element name="sys_class_name"/>
-        </index>
     </element>
 </database>
