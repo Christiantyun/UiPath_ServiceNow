@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Invoice Header Data" max_length="40" name="x_415531_uipath_in_invoice_header_data" type="collection">
+    <element extends="sys_import_set_row" label="Invoice Header Data" max_length="40" name="x_415531_uipath_in_invoice_header_data" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Address Line1" label="Address Line1" max_length="40" name="u_address_line1" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Address Line2" label="Address Line2" max_length="40" name="u_address_line2" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
