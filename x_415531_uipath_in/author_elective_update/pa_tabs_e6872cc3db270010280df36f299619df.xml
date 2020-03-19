@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>UiPath Dashboard - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 21:12:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6872cc3db270010280df36f299619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UiPath Dashboard - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_tabs_e6872cc3db270010280df36f299619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 21:12:44</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>pa_tabs_e6872cc3db270010280df36f299619df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>UiPath Dashboard - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-18 21:12:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e6872cc3db270010280df36f299619df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UiPath Dashboard - New Tab 2</sys_name><sys_overrides/><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>pa_tabs_e6872cc3db270010280df36f299619df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-18 21:12:44</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-1852922502</payload_hash>
+        <record_name>UiPath Dashboard - New Tab 2</record_name>
+        <reverted_from/>
+        <source>e8615fb6db230010280df36f29961928</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 21:12:53</sys_created_on>
+        <sys_id>70976807db270010280df36f2996196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170ef7df3100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 21:12:53</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>62872cc35b2700108d818139f21944e1</update_guid>
+        <update_guid_history>62872cc35b2700108d818139f21944e1:892421827,62872cc35b2700108d818139f21944e1:892421827,62872cc35b2700108d818139f21944e1:892421827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UiPath Dashboard - New Tab 2">3c976807db270010280df36f29961972</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 21:12:53</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>43f765b0c90d4579b871a7d79e2d8ba9</sys_id>
+        <sys_metadata>e6872cc3db270010280df36f299619df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UiPath Dashboard - New Tab 2</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>pa_tabs_e6872cc3db270010280df36f299619df</sys_update_name>
+        <sys_update_version display_value="pa_tabs_e6872cc3db270010280df36f299619df">70976807db270010280df36f2996196e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 21:12:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
