@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Invoice Detail" max_length="40" name="x_415531_uipath_in_invoice_detail" sizeclass="10" type="collection">
+        <element label="Customer Invoice ID" max_length="40" name="customer_invoice_id" type="string"/>
+        <element label="Invoice Page" max_length="40" name="invoice_page" type="string"/>
+        <element label="Item Description" max_length="40" name="item_description" type="string"/>
+        <element label="Item Number" max_length="40" name="item_number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Invoice Detail ID" max_length="40" name="number" type="string"/>
+        <element label="Origin location" max_length="40" name="origin_location" type="string"/>
+        <element label="Package" max_length="40" name="package" type="string"/>
+        <element label="PCNT" max_length="40" name="pcnt" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="string"/>
+        <element label="Retail" max_length="40" name="retail" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Unit Price" max_length="40" name="unit_price" type="string"/>
+        <element label="UPC" max_length="40" name="upc" type="string"/>
+        <element attributes="encode_utf8=false" dependent="customer_invoice_id" dependent_on_field="customer_invoice_id" display="true" label="Invoice Header ID Ref" max_length="32" name="u_reference_1" reference="x_415531_uipath_in_invoice_headers" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

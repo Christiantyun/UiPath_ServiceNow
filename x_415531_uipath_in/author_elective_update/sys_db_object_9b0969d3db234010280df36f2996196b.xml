@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Invoice Header Rows</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_415531_uipath_in_invoice_header_rows</name>
+        <number_ref display_value="INHR">1a396d17db234010280df36f29961956</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Invoice Headers" name="x_415531_uipath_in_invoice_headers">0f0ee9dddb230010280df36f29961979</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 20:38:10</sys_created_on>
+        <sys_id>9b0969d3db234010280df36f2996196b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Invoice Header Rows</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_db_object_9b0969d3db234010280df36f2996196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:04:40</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_415531_uipath_in.UiPath_User" name="x_415531_uipath_in.UiPath_User">1fcaf7b8dbeb0010280df36f2996197d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_db_object_9b0969d3db234010280df36f2996196b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Invoice Header Rows</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_415531_uipath_in_invoice_header_rows</name>
+        <number_ref display_value="INHR">1a396d17db234010280df36f29961956</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Invoice Headers" name="x_415531_uipath_in_invoice_headers">0f0ee9dddb230010280df36f29961979</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 20:38:10</sys_created_on>
+        <sys_id>9b0969d3db234010280df36f2996196b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Invoice Header Rows</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_db_object_9b0969d3db234010280df36f2996196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:04:40</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_415531_uipath_in.UiPath_User" name="x_415531_uipath_in.UiPath_User">1fcaf7b8dbeb0010280df36f2996197d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>903810904</payload_hash>
+        <record_name>Invoice Header Rows</record_name>
+        <reverted_from/>
+        <source>62543d9fdb234010280df36f2996192e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:27:14</sys_created_on>
+        <sys_id>f47475dfdb234010280df36f2996198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f4b172220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:27:14</sys_updated_on>
+        <type>Table</type>
+        <update_guid>747475df52234010776919b3c026b28d</update_guid>
+        <update_guid_history>747475df52234010776919b3c026b28d:0,e4e3f19f81234010ae9b9ee0570986b1:95350545,98e3f19fb4234010b98b699eed68a608:0,9a4f295b1d2340108b5af5b794ad2d86:448329900,1a396d17b22340107776c18e19abcd5c:1868675211,5a396d179f2340107a9a5e7361db9855:-1921545592</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:29:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>12d5744a45d14d628322c90d4fdb1aa4</sys_id>
+        <sys_metadata>9b0969d3db234010280df36f2996196b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invoice Header Rows</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_db_object_9b0969d3db234010280df36f2996196b</sys_update_name>
+        <sys_update_version display_value="sys_db_object_9b0969d3db234010280df36f2996196b">f47475dfdb234010280df36f2996198d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:29:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

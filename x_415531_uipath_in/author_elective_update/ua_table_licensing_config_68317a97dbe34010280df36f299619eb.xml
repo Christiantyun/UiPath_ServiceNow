@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_415531_uipath_in_invoice_header_data</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 01:52:39</sys_created_on>
+        <sys_id>68317a97dbe34010280df36f299619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_68317a97dbe34010280df36f299619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 01:52:39</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>ua_table_licensing_config_68317a97dbe34010280df36f299619eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_415531_uipath_in_invoice_header_data</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-20 01:52:39</sys_created_on><sys_id>68317a97dbe34010280df36f299619eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_415531_uipath_in_invoice_header_data</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>ua_table_licensing_config_68317a97dbe34010280df36f299619eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-20 01:52:39</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-2017055217</payload_hash>
+        <record_name>x_415531_uipath_in_invoice_header_data</record_name>
+        <reverted_from/>
+        <source>b474399fdb234010280df36f299619de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 01:52:39</sys_created_on>
+        <sys_id>64317a97dbe34010280df36f299619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f5a46ff70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 01:52:39</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>ac317a9786e340100a384221158cf0ec</update_guid>
+        <update_guid_history>ac317a9786e340100a384221158cf0ec:-2017055217</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 01:54:57</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>0b37681ebc364d3b8b24a3dd797649c1</sys_id>
+        <sys_metadata>68317a97dbe34010280df36f299619eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_header_data</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_68317a97dbe34010280df36f299619eb</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_68317a97dbe34010280df36f299619eb">64317a97dbe34010280df36f299619ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 01:54:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

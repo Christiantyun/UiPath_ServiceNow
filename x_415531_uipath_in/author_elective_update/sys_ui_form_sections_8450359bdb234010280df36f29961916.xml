@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="8450359bdb234010280df36f29961916" sys_domain="global" table="x_415531_uipath_in_invoice_header_rows" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8050359bdb234010280df36f29961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_415531_uipath_in_invoice_header_rows" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">8450359bdb234010280df36f29961916</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">bf1e6dd7db234010280df36f299619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c50359bdb234010280df36f29961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_415531_uipath_in_invoice_header_rows" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">8450359bdb234010280df36f29961916</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">4450f19bdb234010280df36f299619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_415531_uipath_in_invoice_header_rows</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8450359bdb234010280df36f29961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415531_uipath_in_invoice_header_rows</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8450359bdb234010280df36f29961916</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_form_sections_8450359bdb234010280df36f29961916</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8450359bdb234010280df36f29961916" sys_domain="global" table="x_415531_uipath_in_invoice_header_rows" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8050359bdb234010280df36f29961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_415531_uipath_in_invoice_header_rows" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">8450359bdb234010280df36f29961916</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">bf1e6dd7db234010280df36f299619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c50359bdb234010280df36f29961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_415531_uipath_in_invoice_header_rows" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">8450359bdb234010280df36f29961916</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_415531_uipath_in_invoice_header_rows" sys_domain="global" view="Default view">4450f19bdb234010280df36f299619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_415531_uipath_in_invoice_header_rows</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 21:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8450359bdb234010280df36f29961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415531_uipath_in_invoice_header_rows</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8450359bdb234010280df36f29961916</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 21:09:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>]]></payload>
+        <payload_hash>1347278005</payload_hash>
+        <record_name>Invoice Header Rows</record_name>
+        <reverted_from/>
+        <source>62543d9fdb234010280df36f2996192e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:27:34</sys_created_on>
+        <sys_id>e9843ddfdb234010280df36f299619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f4b1c03e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:27:34</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>69843ddff923401014494f9e919fffe5</update_guid>
+        <update_guid_history>69843ddff923401014494f9e919fffe5:0,c8e3b19f6e234010d3e30155588180fa:245974191,d050359bdd234010de873f3f13525e1b:-441678567,0050359b3323401019cb395010cc7618:1112179317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:29:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>4fbe9e00a6f04aeeb7597933a9a5cc11</sys_id>
+        <sys_metadata>8450359bdb234010280df36f29961916</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415531_uipath_in_invoice_header_rows</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent display_value="">9b0969d3db234010280df36f2996196b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_8450359bdb234010280df36f29961916</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_8450359bdb234010280df36f29961916">e9843ddfdb234010280df36f299619e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:29:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

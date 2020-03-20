@@ -52,8 +52,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-18 19:33:27</sys_created_on>
-        <sys_id>9f7098c3dbe30010280df36f2996193d</sys_id>
+        <sys_created_on>2020-03-20 01:41:53</sys_created_on>
+        <sys_id>168eae53dbe34010280df36f2996197c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>UPC</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_details_upc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-18 19:33:27</sys_updated_on>
+        <sys_updated_on>2020-03-20 01:41:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -73,124 +73,54 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_dictionary>
-<sys_update_version action="INSERT_OR_UPDATE">
+    <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
         <file_path/>
         <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
         <instance_name>dev60831</instance_name>
         <name>sys_dictionary_x_415531_uipath_in_invoice_details_upc</name>
-        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;
-    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="upc" table="x_415531_uipath_in_invoice_details"&gt;
-        &lt;active&gt;true&lt;/active&gt;
-        &lt;array&gt;false&lt;/array&gt;
-        &lt;array_denormalized&gt;false&lt;/array_denormalized&gt;
-        &lt;attributes/&gt;
-        &lt;audit&gt;false&lt;/audit&gt;
-        &lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="upc" table="x_415531_uipath_in_invoice_details"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]&gt;&lt;/calculation&gt;
-        &lt;choice/&gt;
-        &lt;choice_field/&gt;
-        &lt;choice_table/&gt;
-        &lt;column_label&gt;UPC&lt;/column_label&gt;
-        &lt;comments/&gt;
-        &lt;create_roles/&gt;
-        &lt;default_value/&gt;
-        &lt;defaultsort/&gt;
-        &lt;delete_roles/&gt;
-        &lt;dependent/&gt;
-        &lt;dependent_on_field/&gt;
-        &lt;display&gt;false&lt;/display&gt;
-        &lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;
-        &lt;dynamic_creation_script/&gt;
-        &lt;dynamic_default_value/&gt;
-        &lt;dynamic_ref_qual/&gt;
-        &lt;element&gt;upc&lt;/element&gt;
-        &lt;element_reference&gt;false&lt;/element_reference&gt;
-        &lt;foreign_database/&gt;
-        &lt;function_definition/&gt;
-        &lt;function_field&gt;false&lt;/function_field&gt;
-        &lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;
-        &lt;mandatory&gt;false&lt;/mandatory&gt;
-        &lt;max_length&gt;40&lt;/max_length&gt;
-        &lt;name&gt;x_415531_uipath_in_invoice_details&lt;/name&gt;
-        &lt;next_element/&gt;
-        &lt;primary&gt;false&lt;/primary&gt;
-        &lt;read_only&gt;false&lt;/read_only&gt;
-        &lt;read_roles/&gt;
-        &lt;reference/&gt;
-        &lt;reference_cascade_rule/&gt;
-        &lt;reference_floats&gt;false&lt;/reference_floats&gt;
-        &lt;reference_key/&gt;
-        &lt;reference_qual/&gt;
-        &lt;reference_qual_condition/&gt;
-        &lt;reference_type/&gt;
-        &lt;sizeclass/&gt;
-        &lt;spell_check&gt;false&lt;/spell_check&gt;
-        &lt;staged&gt;false&lt;/staged&gt;
-        &lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;
-        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
-        &lt;sys_created_on&gt;2020-03-18 19:33:27&lt;/sys_created_on&gt;
-        &lt;sys_id&gt;9f7098c3dbe30010280df36f2996193d&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
-        &lt;sys_name&gt;UPC&lt;/sys_name&gt;
-        &lt;sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_package&gt;
-        &lt;sys_policy/&gt;
-        &lt;sys_scope display_value="UiPath Invoice Application"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_scope&gt;
-        &lt;sys_update_name&gt;sys_dictionary_x_415531_uipath_in_invoice_details_upc&lt;/sys_update_name&gt;
-        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2020-03-18 19:33:27&lt;/sys_updated_on&gt;
-        &lt;table_reference&gt;false&lt;/table_reference&gt;
-        &lt;text_index&gt;false&lt;/text_index&gt;
-        &lt;unique&gt;false&lt;/unique&gt;
-        &lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;
-        &lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;
-        &lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;
-        &lt;virtual&gt;false&lt;/virtual&gt;
-        &lt;widget/&gt;
-        &lt;write_roles/&gt;
-        &lt;xml_view&gt;false&lt;/xml_view&gt;
-    &lt;/sys_dictionary&gt;
-&lt;/record_update&gt;</payload>
-        <payload_hash>-647622482</payload_hash>
-        <record_name>Invoice Details.UPC</record_name>
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;UPC&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;upc&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_415531_uipath_in_invoice_details&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-20 01:41:53&lt;/sys_created_on&gt;&lt;sys_id&gt;168eae53dbe34010280df36f2996197c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;UPC&lt;/sys_name&gt;&lt;sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="UiPath Invoice Application"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_415531_uipath_in_invoice_details_upc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-20 01:41:53&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1422296364</payload_hash>
+        <record_name>Invoice Details.upc</record_name>
         <reverted_from/>
-        <source>8f66e913db234010280df36f29961970</source>
-        <source_table>sys_upgrade_history</source_table>
+        <source>b474399fdb234010280df36f299619de</source>
+        <source_table>sys_update_set</source_table>
         <state>previous</state>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-19 20:26:47</sys_created_on>
-        <sys_id>c3962d53db234010280df36f2996194f</sys_id>
+        <sys_created_on>2020-03-20 01:41:53</sys_created_on>
+        <sys_id>febe2a17dbe34010280df36f29961980</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>170f47a17920000001</sys_recorded_at>
+        <sys_recorded_at>170f59a95990000001</sys_recorded_at>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-19 20:26:47</sys_updated_on>
+        <sys_updated_on>2020-03-20 01:41:53</sys_updated_on>
         <type>Dictionary</type>
-        <update_guid>43962d53a4234010f16df8f569ceba4f</update_guid>
-        <update_guid_history>43962d53a4234010f16df8f569ceba4f:0,e486e153b5234010208a9eda8ffac938:-1683523704,18d05407cde3001036278c9f1b220c49:-1422296364,3af5d3fec92300109719250b1c3f596a:990480582,89611bfacd230010b1e837f7e273da2c:0,874113faac230010382cdae4a59b6f7e:990480582,4f569a5972a3001086467c8e881fcdb4:1611728402</update_guid_history>
+        <update_guid>7abe2a1789e34010e636b3ffeb507880</update_guid>
+        <update_guid_history>7abe2a1789e34010e636b3ffeb507880:-1422296364,db84fddff7234010f21c3474bbc9929a:0,27f869179d23401003ff1f105f752e72:-1683523704,43962d53a4234010f16df8f569ceba4f:0,e486e153b5234010208a9eda8ffac938:-1683523704,18d05407cde3001036278c9f1b220c49:-1422296364,3af5d3fec92300109719250b1c3f596a:990480582,89611bfacd230010b1e837f7e273da2c:0,874113faac230010382cdae4a59b6f7e:990480582,4f569a5972a3001086467c8e881fcdb4:1611728402</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
         <sys_audit_delete/>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-19 20:37:11</sys_created_on>
+        <sys_created_on>2020-03-20 02:06:04</sys_created_on>
         <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
-        <sys_id>2aaa1110b1e04b628b2455b9d6106da4</sys_id>
-        <sys_metadata>e596a953db234010280df36f29961938</sys_metadata>
+        <sys_id>551f07de667641be9767f0589fff4939</sys_id>
+        <sys_metadata>168eae53dbe34010280df36f2996197c</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>UPC</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
-        <sys_parent display_value="">887761d3db234010280df36f2996199f</sys_parent>
+        <sys_parent display_value="">349da2d3dbe34010280df36f29961959</sys_parent>
         <sys_policy/>
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_details_upc</sys_update_name>
-        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_details_upc">c3962d53db234010280df36f2996194f</sys_update_version>
+        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_details_upc">febe2a17dbe34010280df36f29961980</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-19 20:37:11</sys_updated_on>
+        <sys_updated_on>2020-03-20 02:06:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

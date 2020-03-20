@@ -52,8 +52,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-18 19:33:27</sys_created_on>
-        <sys_id>bd701007dbe30010280df36f29961927</sys_id>
+        <sys_created_on>2020-03-20 01:41:53</sys_created_on>
+        <sys_id>0d8eeed3dbe34010280df36f2996190e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PCNT</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_details_pcnt</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-18 19:33:27</sys_updated_on>
+        <sys_updated_on>2020-03-20 01:41:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -73,124 +73,54 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_dictionary>
-<sys_update_version action="INSERT_OR_UPDATE">
+    <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
         <file_path/>
         <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
         <instance_name>dev60831</instance_name>
         <name>sys_dictionary_x_415531_uipath_in_invoice_details_pcnt</name>
-        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;
-    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="pcnt" table="x_415531_uipath_in_invoice_details"&gt;
-        &lt;active&gt;true&lt;/active&gt;
-        &lt;array&gt;false&lt;/array&gt;
-        &lt;array_denormalized&gt;false&lt;/array_denormalized&gt;
-        &lt;attributes/&gt;
-        &lt;audit&gt;false&lt;/audit&gt;
-        &lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="pcnt" table="x_415531_uipath_in_invoice_details"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]&gt;&lt;/calculation&gt;
-        &lt;choice/&gt;
-        &lt;choice_field/&gt;
-        &lt;choice_table/&gt;
-        &lt;column_label&gt;PCNT&lt;/column_label&gt;
-        &lt;comments/&gt;
-        &lt;create_roles/&gt;
-        &lt;default_value/&gt;
-        &lt;defaultsort/&gt;
-        &lt;delete_roles/&gt;
-        &lt;dependent/&gt;
-        &lt;dependent_on_field/&gt;
-        &lt;display&gt;false&lt;/display&gt;
-        &lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;
-        &lt;dynamic_creation_script/&gt;
-        &lt;dynamic_default_value/&gt;
-        &lt;dynamic_ref_qual/&gt;
-        &lt;element&gt;pcnt&lt;/element&gt;
-        &lt;element_reference&gt;false&lt;/element_reference&gt;
-        &lt;foreign_database/&gt;
-        &lt;function_definition/&gt;
-        &lt;function_field&gt;false&lt;/function_field&gt;
-        &lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;
-        &lt;mandatory&gt;false&lt;/mandatory&gt;
-        &lt;max_length&gt;40&lt;/max_length&gt;
-        &lt;name&gt;x_415531_uipath_in_invoice_details&lt;/name&gt;
-        &lt;next_element/&gt;
-        &lt;primary&gt;false&lt;/primary&gt;
-        &lt;read_only&gt;false&lt;/read_only&gt;
-        &lt;read_roles/&gt;
-        &lt;reference/&gt;
-        &lt;reference_cascade_rule/&gt;
-        &lt;reference_floats&gt;false&lt;/reference_floats&gt;
-        &lt;reference_key/&gt;
-        &lt;reference_qual/&gt;
-        &lt;reference_qual_condition/&gt;
-        &lt;reference_type/&gt;
-        &lt;sizeclass/&gt;
-        &lt;spell_check&gt;false&lt;/spell_check&gt;
-        &lt;staged&gt;false&lt;/staged&gt;
-        &lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;
-        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
-        &lt;sys_created_on&gt;2020-03-18 19:33:27&lt;/sys_created_on&gt;
-        &lt;sys_id&gt;bd701007dbe30010280df36f29961927&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
-        &lt;sys_name&gt;PCNT&lt;/sys_name&gt;
-        &lt;sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_package&gt;
-        &lt;sys_policy/&gt;
-        &lt;sys_scope display_value="UiPath Invoice Application"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_scope&gt;
-        &lt;sys_update_name&gt;sys_dictionary_x_415531_uipath_in_invoice_details_pcnt&lt;/sys_update_name&gt;
-        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2020-03-18 19:33:27&lt;/sys_updated_on&gt;
-        &lt;table_reference&gt;false&lt;/table_reference&gt;
-        &lt;text_index&gt;false&lt;/text_index&gt;
-        &lt;unique&gt;false&lt;/unique&gt;
-        &lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;
-        &lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;
-        &lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;
-        &lt;virtual&gt;false&lt;/virtual&gt;
-        &lt;widget/&gt;
-        &lt;write_roles/&gt;
-        &lt;xml_view&gt;false&lt;/xml_view&gt;
-    &lt;/sys_dictionary&gt;
-&lt;/record_update&gt;</payload>
-        <payload_hash>999129796</payload_hash>
-        <record_name>Invoice Details.PCNT</record_name>
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;PCNT&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;pcnt&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_415531_uipath_in_invoice_details&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-20 01:41:53&lt;/sys_created_on&gt;&lt;sys_id&gt;0d8eeed3dbe34010280df36f2996190e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;PCNT&lt;/sys_name&gt;&lt;sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="UiPath Invoice Application"&gt;b31bf2d0dba30010280df36f2996193b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_415531_uipath_in_invoice_details_pcnt&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-20 01:41:53&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2128090122</payload_hash>
+        <record_name>Invoice Details.pcnt</record_name>
         <reverted_from/>
-        <source>8f66e913db234010280df36f29961970</source>
-        <source_table>sys_upgrade_history</source_table>
+        <source>b474399fdb234010280df36f299619de</source>
+        <source_table>sys_update_set</source_table>
         <state>previous</state>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-19 20:26:46</sys_created_on>
-        <sys_id>fa962d53db234010280df36f29961926</sys_id>
+        <sys_created_on>2020-03-20 01:41:53</sys_created_on>
+        <sys_id>bebe2a17dbe34010280df36f2996196b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>170f47a148f0000001</sys_recorded_at>
+        <sys_recorded_at>170f59a94f60000001</sys_recorded_at>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-19 20:26:46</sys_updated_on>
+        <sys_updated_on>2020-03-20 01:41:53</sys_updated_on>
         <type>Dictionary</type>
-        <update_guid>7a962d532d23401032c478297220cf26</update_guid>
-        <update_guid_history>7a962d532d23401032c478297220cf26:0,9086a1535d234010909609cbdb897dea:1506842302,80d054070de300103da835aed3bdb144:2128090122</update_guid_history>
+        <update_guid>3abe2a1726e340108fcc9c52e78ba76b</update_guid>
+        <update_guid_history>3abe2a1726e340108fcc9c52e78ba76b:2128090122,8384fddf40234010b8c524560877ed7b:0,e7c825176f234010e36a67c1d154468d:1506842302,7a962d532d23401032c478297220cf26:0,9086a1535d234010909609cbdb897dea:1506842302,80d054070de300103da835aed3bdb144:2128090122</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
         <sys_audit_delete/>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-19 20:36:22</sys_created_on>
+        <sys_created_on>2020-03-20 02:06:03</sys_created_on>
         <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
-        <sys_id>2d56141a59074df98efe8df2c8cf9af1</sys_id>
-        <sys_metadata>2596a953db234010280df36f2996191a</sys_metadata>
+        <sys_id>0a7a01140e0741868507e1887d66a0d1</sys_id>
+        <sys_metadata>0d8eeed3dbe34010280df36f2996190e</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PCNT</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
-        <sys_parent display_value="">887761d3db234010280df36f2996199f</sys_parent>
+        <sys_parent display_value="">349da2d3dbe34010280df36f29961959</sys_parent>
         <sys_policy/>
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_details_pcnt</sys_update_name>
-        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_details_pcnt">fa962d53db234010280df36f29961926</sys_update_version>
+        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_details_pcnt">bebe2a17dbe34010280df36f2996196b</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-19 20:36:22</sys_updated_on>
+        <sys_updated_on>2020-03-20 02:06:03</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

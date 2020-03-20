@@ -52,8 +52,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-19 20:52:20</sys_created_on>
-        <sys_id>f7fb2997db234010280df36f299619d9</sys_id>
+        <sys_created_on>2020-03-20 01:36:15</sys_created_on>
+        <sys_id>d74caa93dbe34010280df36f29961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Var P.O.NO</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_headers_var_p_o_no</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-19 20:52:20</sys_updated_on>
+        <sys_updated_on>2020-03-20 01:36:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
