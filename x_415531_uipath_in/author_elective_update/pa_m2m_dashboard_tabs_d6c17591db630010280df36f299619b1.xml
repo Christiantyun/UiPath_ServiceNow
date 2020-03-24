@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="UiPath Dashboard">9ec13591db630010280df36f29961956</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6c17591db630010280df36f299619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ec13591db630010280df36f29961956</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d6c17591db630010280df36f299619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:07:46</sys_updated_on>
+        <tab display_value="My Homepage 3 - New Tab">dac13591db630010280df36f2996195f</tab>
+    </pa_m2m_dashboard_tabs>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>pa_m2m_dashboard_tabs_d6c17591db630010280df36f299619b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="UiPath Dashboard">9ec13591db630010280df36f29961956</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6c17591db630010280df36f299619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ec13591db630010280df36f29961956</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d6c17591db630010280df36f299619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:07:46</sys_updated_on>
+        <tab display_value="My Homepage 3 - New Tab">dac13591db630010280df36f2996195f</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>]]></payload>
+        <payload_hash>-2039586860</payload_hash>
+        <record_name>9ec13591db630010280df36f29961956</record_name>
+        <reverted_from/>
+        <source>62543d9fdb234010280df36f2996192e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:27:31</sys_created_on>
+        <sys_id>b084f9dfdb234010280df36f2996190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f4b1b3c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:27:31</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>3084f9dfcb2340109d3e432ffa706e0b</update_guid>
+        <update_guid_history>3084f9dfcb2340109d3e432ffa706e0b:0,0b64f1df172340103eadf9db97f924bd:2007833799,e0a6ad53b4234010fd21dcaaa0096298:0,9b86e553a72340107894b5aad6e84b20:2007833799,b9615bfa0d2300102be2cfef13f0f657:0,ee5157fa35230010def592b4041bbe90:2007833799,dac17591f06300104fc482275667ebb2:-2065320284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UiPath Dashboard">6d2ebea4db770010280df36f299619ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 00:01:39</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>024449664bfc4558bdeac9d87caf3440</sys_id>
+        <sys_metadata>d6c17591db630010280df36f299619b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ec13591db630010280df36f29961956</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent display_value="">9ec13591db630010280df36f29961956</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_d6c17591db630010280df36f299619b1</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_d6c17591db630010280df36f299619b1">b084f9dfdb234010280df36f2996190b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 00:01:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -47,8 +47,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-20 01:58:10</sys_created_on>
-        <sys_id>1972fed7dbe34010280df36f29961997</sys_id>
+        <sys_created_on>2020-03-20 02:20:59</sys_created_on>
+        <sys_id>e3a7f61fdbe34010280df36f299619c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Unit Price</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-20 01:58:10</sys_updated_on>
+        <sys_updated_on>2020-03-20 02:20:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -75,7 +75,7 @@
         <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
         <instance_name>dev60831</instance_name>
         <name>sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price</name>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_unit_price" table="x_415531_uipath_in_invoice_detail_data"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Unit Price</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Unit Price</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_unit_price</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_415531_uipath_in_invoice_detail_data</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-20 01:58:10</sys_created_on><sys_id>1972fed7dbe34010280df36f29961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unit Price</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-20 01:58:10</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_unit_price" table="x_415531_uipath_in_invoice_detail_data"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Unit Price</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Unit Price</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_unit_price</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_415531_uipath_in_invoice_detail_data</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-20 02:20:59</sys_created_on><sys_id>e3a7f61fdbe34010280df36f299619c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unit Price</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-20 02:20:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
         <payload_hash>-426293444</payload_hash>
         <record_name>Invoice Detail Data.Unit Price</record_name>
         <reverted_from/>
@@ -83,34 +83,34 @@
         <source_table>sys_update_set</source_table>
         <state>previous</state>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-20 01:58:10</sys_created_on>
-        <sys_id>5172fed7dbe34010280df36f299619b2</sys_id>
+        <sys_created_on>2020-03-20 02:21:00</sys_created_on>
+        <sys_id>bba7f61fdbe34010280df36f299619de</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>170f5a97d910000001</sys_recorded_at>
+        <sys_recorded_at>170f5be63d40000001</sys_recorded_at>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-20 01:58:10</sys_updated_on>
+        <sys_updated_on>2020-03-20 02:21:00</sys_updated_on>
         <type>Dictionary</type>
-        <update_guid>d972fed78be340103732419fd77736b1</update_guid>
-        <update_guid_history>d972fed78be340103732419fd77736b1:-426293444,32a66193ba23401000080b582812d528:0,5c3450c760e3001017187888b2ad5256:1759362288,d0911047a3e3001099ee9808507b8108:-426293444</update_guid_history>
+        <update_guid>37a7f61f26e34010340bf1cc366aa1de</update_guid>
+        <update_guid_history>37a7f61f26e34010340bf1cc366aa1de:-426293444,a277361f50e34010d109e32e02ac2816:1759362288,4ce6badb46e340103775ddb6b7a18d75:-426293444,dd547a5b31e340103afd60c61576d491:1759362288,d972fed78be340103732419fd77736b1:-426293444,32a66193ba23401000080b582812d528:0,5c3450c760e3001017187888b2ad5256:1759362288,d0911047a3e3001099ee9808507b8108:-426293444</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
         <sys_audit_delete/>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-20 02:06:21</sys_created_on>
+        <sys_created_on>2020-03-20 18:45:15</sys_created_on>
         <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
-        <sys_id>0feee0137d3646b092cec4db84a0e784</sys_id>
-        <sys_metadata>1972fed7dbe34010280df36f29961997</sys_metadata>
+        <sys_id>db180ea1da2c47d486dbc06cca931c90</sys_id>
+        <sys_metadata>e3a7f61fdbe34010280df36f299619c4</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Unit Price</sys_name>
         <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
-        <sys_parent display_value="">5972fed7dbe34010280df36f29961913</sys_parent>
+        <sys_parent display_value="">63a7f61fdbe34010280df36f29961997</sys_parent>
         <sys_policy/>
         <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
         <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
         <sys_update_name>sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price</sys_update_name>
-        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price">5172fed7dbe34010280df36f299619b2</sys_update_version>
+        <sys_update_version display_value="sys_dictionary_x_415531_uipath_in_invoice_detail_data_u_unit_price">bba7f61fdbe34010280df36f299619de</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-20 02:06:21</sys_updated_on>
+        <sys_updated_on>2020-03-20 18:45:15</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

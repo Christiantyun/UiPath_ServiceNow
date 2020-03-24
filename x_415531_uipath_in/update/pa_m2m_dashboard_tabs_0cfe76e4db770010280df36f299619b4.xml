@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="UiPath Dashboard">3fbe7ea4db770010280df36f2996191c</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 00:05:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0cfe76e4db770010280df36f299619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3fbe7ea4db770010280df36f2996191c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_0cfe76e4db770010280df36f299619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 00:05:06</sys_updated_on>
+        <tab display_value="UiPath Dashboard - New Tab">44fe76e4db770010280df36f299619b2</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

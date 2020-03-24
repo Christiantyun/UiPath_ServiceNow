@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="DELETE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>UiPath Dashboard</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ec13591db630010280df36f29961956</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UiPath Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_dashboards_9ec13591db630010280df36f29961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:08:29</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>pa_dashboards_9ec13591db630010280df36f29961956</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>UiPath Dashboard</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 16:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ec13591db630010280df36f29961956</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UiPath Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>pa_dashboards_9ec13591db630010280df36f29961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 16:08:29</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>]]></payload>
+        <payload_hash>-1489731573</payload_hash>
+        <record_name>UiPath Dashboard</record_name>
+        <reverted_from/>
+        <source>62543d9fdb234010280df36f2996192e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 21:27:31</sys_created_on>
+        <sys_id>7884f9dfdb234010280df36f29961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f4b1b3a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 21:27:31</sys_updated_on>
+        <type>Dashboard</type>
+        <update_guid>f484f9df42234010206d239ed6a4a208</update_guid>
+        <update_guid_history>f484f9df42234010206d239ed6a4a208:0,0364f1df9c23401092de64ed07ec79c0:-465087541,a8a6ad53af2340108b731cc6fee64795:0,9386e553fd234010bcd5845508f2c023:-465087541,71615bfad3230010d5fa5bd305c8b455:0,e65157fae323001040ea3628ce0f6d93:-465087541,f8f13591ae630010955a0cef4dea292d:196831551,92c13591eb630010187b3fcf09212058:1774016641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UiPath Dashboard">2d2ebea4db770010280df36f299619f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 00:01:39</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards">pa_dashboards</sys_db_object>
+        <sys_id>7392364073bb4f7b956e84cd7c9fbf79</sys_id>
+        <sys_metadata>9ec13591db630010280df36f29961956</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UiPath Dashboard</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>pa_dashboards_9ec13591db630010280df36f29961956</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_9ec13591db630010280df36f29961956">7884f9dfdb234010280df36f29961908</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 00:01:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

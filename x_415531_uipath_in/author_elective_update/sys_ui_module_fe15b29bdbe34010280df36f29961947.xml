@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Invoices">0b569a59dba30010280df36f299619bb</application>
+        <filter/>
+        <name>Invoice Details</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_415531_uipath_in.UiPath_User</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 02:09:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe15b29bdbe34010280df36f29961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invoice Details</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_update_name>sys_ui_module_fe15b29bdbe34010280df36f29961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 02:09:44</sys_updated_on>
+        <table>x_415531_uipath_in_invoice_detail</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</application>
+        <file_path/>
+        <instance_id>55996199dba2dbc00e785d00cf9619cf</instance_id>
+        <instance_name>dev60831</instance_name>
+        <name>sys_ui_module_fe15b29bdbe34010280df36f29961947</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Invoices">0b569a59dba30010280df36f299619bb</application><filter/><name>Invoice Details</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_415531_uipath_in.UiPath_User</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-20 02:09:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fe15b29bdbe34010280df36f29961947</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Invoice Details</sys_name><sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package><sys_policy/><sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope><sys_update_name>sys_ui_module_fe15b29bdbe34010280df36f29961947</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-20 02:09:44</sys_updated_on><table>x_415531_uipath_in_invoice_detail</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-232350688</payload_hash>
+        <record_name>Invoice Details</record_name>
+        <reverted_from/>
+        <source>b474399fdb234010280df36f299619de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 02:09:44</sys_created_on>
+        <sys_id>fa15b29bdbe34010280df36f29961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f5b4139b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 02:09:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3615b29b3be34010204b7a27c4fe2249</update_guid>
+        <update_guid_history>3615b29b3be34010204b7a27c4fe2249:-232350688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 18:24:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>c4af2eb709c54fe0a38a45e1839a1ea4</sys_id>
+        <sys_metadata>fe15b29bdbe34010280df36f29961947</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invoice Details</sys_name>
+        <sys_package display_value="UiPath Invoice Application" source="x_415531_uipath_in">b31bf2d0dba30010280df36f2996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UiPath Invoice Application">b31bf2d0dba30010280df36f2996193b</sys_scope>
+        <sys_scope_delete display_value="">8544f5b3b8b94da0ab4785ee8c491c40</sys_scope_delete>
+        <sys_update_name>sys_ui_module_fe15b29bdbe34010280df36f29961947</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_fe15b29bdbe34010280df36f29961947">fa15b29bdbe34010280df36f29961949</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 18:24:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
